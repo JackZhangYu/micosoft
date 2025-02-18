@@ -1,2 +1,2 @@
-     FROM us-central1-docker.pkg.dev/google-samples/microservices-demo/shippingservice:v0.8.0
+     FROM us-central1-docker.pkg.dev/google-samples/microservices-demo/shippingservice:v0.10.2
      MAINTAINER Q
