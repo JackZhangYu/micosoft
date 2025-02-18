@@ -1,2 +1,2 @@
-FROM gcr.io/google-samples/microservices-demo/paymentservice:v0.8.0
+FROM us-central1-docker.pkg.dev/google-samples/microservices-demo/paymentservice:v0.10.2
 MAINTAINER Q
